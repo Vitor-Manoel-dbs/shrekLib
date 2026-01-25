@@ -1,6 +1,6 @@
-#Shrek Lib
+# Shrek Lib
 
-##Descrição 
+## Descrição 
 Uma bibilioteca python que troca todos os valores por personagens aleatorios do filme Shrek 2
 
 o nome da bibilioteca na importação é shrek
