@@ -8,7 +8,8 @@ Uma bibilioteca python que troca todos os valores por personagens aleatorios do 
 Para baixar a bibilioteca execute o segunte comando no terminal do seu vs code:
 
 ```bash
-pip install git+https://github.com/Vitor193757382/shrekLib.git ```
+pip install git+https://github.com/Vitor193757382/shrekLib.git
+```
 
 ## Como usar
 O nome da bibilioteca na importação é shrek
