@@ -14,7 +14,7 @@ pip install git+https://github.com/Vitor193757382/shrekLib.git
 ## Como usar
 O nome da bibilioteca na importação é shrek
 
--Para usar a bibilioteca, chame a função shrekizar() e passe um valor nos parênteses.
+-Para usar a bibilioteca, chame a função `shrekizar()` e passe um valor nos parênteses.
 
 -Caso passe um valor invalido, uma mensagem de erro com um humor bem 'duvidoso' será exibida.
 
