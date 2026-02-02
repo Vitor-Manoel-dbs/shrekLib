@@ -1,5 +1,5 @@
 from random import choice, randint
-from listas import personagens, erros_tupla, erros_complex, erros_none, erros_byte, erros_frozenset
+from .listas import personagens, erros_tupla, erros_complex, erros_none, erros_byte, erros_frozenset
 
 def shrekizar(valor):
     if isinstance(valor, (int, str, bool, float)) == True:
