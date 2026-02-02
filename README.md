@@ -22,11 +22,5 @@ O nome da bibilioteca na importação é shrek
 
 -As mensagens de erro são verdes, porque? porque sim
 
-<<<<<<< HEAD
--Valores validos: int, float, str, bool, list, dict.
-
--Valores invalidos: tuple, None, Complex
-=======
 -Valores validos: int, float, str, bool, list, dict, set.
 -Valores invalidos: tuple, None, Complex, bytes, bytearray, frozenset.
->>>>>>> 7995e08 (novos tipos de dados adicionados)
